@@ -92,15 +92,7 @@ sao chép nội dung sau vào file. mục đích là để nó tự monitor chí
 
 
 ```
-global:
-  scrape_interval: 10s
-
-scrape_configs:
-  - job_name: 'prometheus'
-    scrape_interval: 5s
-    static_configs:
-      - targets: ['localhost:9090']
-
+dock
 ```
 
 

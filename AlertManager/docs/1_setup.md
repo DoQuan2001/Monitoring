@@ -57,6 +57,7 @@ receivers:
     auth_identity: "email gửi"
     auth_password: "mật khẩu ứng dụng của email gửi" # tự xem phần tạo mật khẩu ứng dụng cho gmail.
 
+
 ```
 
 ### BƯỚC 4: TẠO FILE SYSTEM.
